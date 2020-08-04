@@ -9,7 +9,7 @@ function modelReady() {
         mobileNet.predict(gotResults);
 }
 
-// yeah baby as
+// yeah baby asasdfasdf
 
 function gotResults(error, results) {
         if (error) {
