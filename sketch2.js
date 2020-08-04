@@ -9,8 +9,6 @@ function modelReady() {
         mobileNet.predict(gotResults);
 }
 
-// yeah baby asasdfasdf
-
 function gotResults(error, results) {
         if (error) {
                 console.error(error);
